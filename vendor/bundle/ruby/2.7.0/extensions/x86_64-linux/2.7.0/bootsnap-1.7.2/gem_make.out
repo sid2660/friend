@@ -1,0 +1,15 @@
+current directory: /home/siddhartha/Desktop/Study/Rails/friend/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+/home/siddhartha/.rbenv/versions/2.7.2/bin/ruby -I /home/siddhartha/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210317-11007-1g98ssg.rb extconf.rb
+creating Makefile
+
+current directory: /home/siddhartha/Desktop/Study/Rails/friend/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/siddhartha/Desktop/Study/Rails/friend/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/siddhartha/Desktop/Study/Rails/friend/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20210317-11007-1uffl5a/bootsnap
